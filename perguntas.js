@@ -21,3 +21,28 @@ criaCartao(
     'Qual o nome verdadeiro da Lana del Ray',
     'Elizabeth Woolridge Grant'
 )
+criaCartao(
+    'Música',
+    'Qual o nome verdadeiro da Lana del Ray',
+    'Elizabeth Woolridge Grant'
+)
+criaCartao(
+    'Música',
+    'Qual o nome verdadeiro da Lana del Ray',
+    'Elizabeth Woolridge Grant'
+)
+criaCartao(
+    'Música',
+    'Qual o nome verdadeiro da Lana del Ray',
+    'Elizabeth Woolridge Grant'
+)
+criaCartao(
+    'Música',
+    'Qual o nome verdadeiro da Lana del Ray',
+    'Elizabeth Woolridge Grant'
+)
+criaCartao(
+    'Música',
+    'Qual o nome verdadeiro da Lana del Ray',
+    'Elizabeth Woolridge Grant'
+)
