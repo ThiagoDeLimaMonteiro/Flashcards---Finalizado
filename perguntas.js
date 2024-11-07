@@ -1,12 +1,12 @@
 criaCartao(
     'Música',
-    'Qual é o albúm mais vendido do mundo?',
+    'Qual é o álbum mais vendido do mundo?',
     'Thriller, Michael Jackson'
 )
 
 criaCartao(
     'Música',
-    'Qual é o artista com mais ouvinte no Spotify?',
+    'Qual é o artista com mais ouvintes no Spotify?',
     'Taylor Swift'
 )
 
@@ -18,31 +18,36 @@ criaCartao(
 
 criaCartao(
     'Música',
-    'Qual o nome verdadeiro da Lana del Ray',
+    'Qual é o nome verdadeiro da Lana Del Rey?',
     'Elizabeth Woolridge Grant'
 )
+
 criaCartao(
     'Música',
-    'Qual o nome verdadeiro da Lana del Ray',
-    'Elizabeth Woolridge Grant'
+    'Qual foi o maior hit da banda ABBA?',
+    'Dancing Queen'
+) 
+
+criaCartao(
+    'Música',
+    'Qual banda lançou a música "Bohemian Rhapsody"?',
+    'Queen'
 )
+
 criaCartao(
     'Música',
-    'Qual o nome verdadeiro da Lana del Ray',
-    'Elizabeth Woolridge Grant'
+    'Quem é conhecido como o "Rei do Rock"?',
+    'Elvis Presley'
 )
+
 criaCartao(
     'Música',
-    'Qual o nome verdadeiro da Lana del Ray',
-    'Elizabeth Woolridge Grant'
+    'Qual cantora é famosa pela música "Like a Virgin"?',
+    'Madonna'
 )
+
 criaCartao(
     'Música',
-    'Qual o nome verdadeiro da Lana del Ray',
-    'Elizabeth Woolridge Grant'
-)
-criaCartao(
-    'Música',
-    'Qual o nome verdadeiro da Lana del Ray',
-    'Elizabeth Woolridge Grant'
+    'Qual foi o primeiro álbum dos Beatles?',
+    'Please Please Me'
 )
